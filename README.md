@@ -1,4 +1,4 @@
-<img width="1080" height="2160" alt="Screenshot_1752712250" src="https://github.com/user-attachments/assets/b0224b6c-da99-477d-9545-70137f3b185b" /># 🏡 Smart Realty – Real Estate App (In Progress)
+# 🏡 Smart Realty – Real Estate App (In Progress)
 
 **Smart Realty** is a real estate mobile application designed to simplify the process of listing, selling, and renting properties, with a strong focus on the Egyptian and Middle Eastern markets.
 
